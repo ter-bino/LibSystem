@@ -15,7 +15,7 @@ https://www.mediafire.com/file/rik1kchumey2p3g/LibSystem.zip/file
 -If first time lunching, you are asked to create a password.<br>
 -Before you can do anything with the program, you are asked to enter the program's password.<br>
 
-**The Interface:**
+**The Interface:**<br>
 -On the left side are buttons for switching the panel displayed on the right side.<br>
 -The 4 main panels of the program are, 'List of Books', 'Patrons', 'Logs' and 'About'.<br>
 
