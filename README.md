@@ -22,7 +22,7 @@ https://www.mediafire.com/file/rik1kchumey2p3g/LibSystem.zip/file
 **List of Books Screen:**
 ![image](https://user-images.githubusercontent.com/93169758/139810548-4ad12eb3-0eff-4567-a9bc-f8633493ab7f.png)
 -Main thing displayed on this screen are the books we have in the record as a list/table. This shows
-the book ID, book title, book author and the amount of available copies for borrowing.
+the book ID, book title, book author and the amount of available copies for borrowing.<br>
 -At the top part is a search bar where we can enter keywords for searching. We can alse enter the
 exact ID of a Book to get full details of that book.
 -At the bottom are buttons for main functions we can do in this screen. These includes:
