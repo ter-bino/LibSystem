@@ -119,7 +119,7 @@ public class ModUI extends JDialog {
 		});
 		
 		//label of Draggable Header
-		headerLabel = new JLabel("MODIFY A BOOK IN RECORD");
+		headerLabel = new JLabel("MODIFY A RECORD");
 		headerLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		headerLabel.setForeground(UIManager.getColor("Button.light"));
 		headerLabel.setFont(new Font("Century Gothic", Font.BOLD, 20));
@@ -286,13 +286,14 @@ public class ModUI extends JDialog {
 			public void actionPerformed(ActionEvent e) {
 				try {
 					//Does not proceed as long as modify() returns false
-					if(isBook)
+					if(isBook) {
 						//for Books
 						if(modify(Menu.books.get(data_1))) {
 							GUI.getModifyButton().setEnabled(true);
 							GUI.getRefreshButton().doClick();
 							dispose();
 						}
+					}
 					else
 						//for Patrons
 						if(modify(Menu.patrons.get(data_1))) {
