@@ -9,6 +9,9 @@ I have no idea how GitHub works, but I uploaded the project here anyways.
 An executable file with sample data is available here:<br>
 https://drive.google.com/file/d/1gqBmXVMHOIdqs9uBM6XgTjuFWJgbLZ9_/view?usp=sharing
 
+Video demonstration:<br>
+https://youtu.be/uSG24XuDOYc
+
 **Log-In Screen:**
 ![image](https://user-images.githubusercontent.com/93169758/139810422-570be973-d610-411f-883b-8d429a8f7403.png)
 
