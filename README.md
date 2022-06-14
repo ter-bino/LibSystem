@@ -7,7 +7,7 @@ Anyone is free to use the program or improve it however they want, maybe just gi
 I have no idea how GitHub works
 
 An executable file with sample data is available here:<br>
-https://www.mediafire.com/file/rik1kchumey2p3g/LibSystem.zip/file
+https://drive.google.com/file/d/1gqBmXVMHOIdqs9uBM6XgTjuFWJgbLZ9_/view?usp=sharing
 
 **Log-In Screen:**
 ![image](https://user-images.githubusercontent.com/93169758/139810422-570be973-d610-411f-883b-8d429a8f7403.png)
