@@ -4,7 +4,7 @@ A Library Management System program that can be used for tracking records in a l
 
 Anyone is free to use the program or improve it however they want, maybe just give me credits?
 
-I have no idea how GitHub works
+I have no idea how GitHub works, but I uploaded the project here anyways.
 
 An executable file with sample data is available here:<br>
 https://drive.google.com/file/d/1gqBmXVMHOIdqs9uBM6XgTjuFWJgbLZ9_/view?usp=sharing
